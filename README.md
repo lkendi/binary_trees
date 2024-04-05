@@ -1,5 +1,5 @@
 # Binary Trees
-Task 0 : Create a binary tree node
+Task 0 : Create a binary tree node \
 Task 1 : Insert a node as the left-child of another node
 Task 2 : Insert a node as the right-child of another node
 Task 3 : Delete an entire binary tree
