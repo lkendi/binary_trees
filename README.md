@@ -17,7 +17,7 @@ Task 14 : Measure the balanace factor of a binary tree \
 Task 15 : Check if a bianry tree is full \
 Task 16 : Check if a bianry tree is perfect \
 Task 17 : Find the sibling of a node \
-Task 18 : Find the uncle of a node \
+Task 18 : Find the uncle of a node
 
 
 
